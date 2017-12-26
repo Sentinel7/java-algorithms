@@ -17,7 +17,6 @@ All of the following programs can be found in the src folder of Algorithms.
 ### Searching:
 
 * BinarySearch.java (SOON TO ADD)
-* QuickFindUF.java (Quick Union Find)
 
 
 ### Recursion:
@@ -25,3 +24,8 @@ All of the following programs can be found in the src folder of Algorithms.
 * Factorial.java
 * fib.java (Fibonacci numbers)
 * sum.java (Recursive sum)
+
+
+### Other:
+
+* QuickFindUF.java (Quick Union Find)
