@@ -1,4 +1,4 @@
-# Algorithms V1
+# Algorithms
 
 This repository contains a large set of algorithms which I have written in Java. I've created this repository to learn about algorithms and improve solving different common computer science problems.
 
