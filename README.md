@@ -1,6 +1,6 @@
 # Algorithms V1
 
-This repository contains a large set of algorithms which I have written in Java and Python. I've created this repository to learn about algorithms and improve solving different common computer science problems.
+This repository contains a large set of algorithms which I have written in Java. I've created this repository to learn about algorithms and improve solving different common computer science problems.
 
 
 ### Sorting:
