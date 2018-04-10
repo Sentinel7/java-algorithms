@@ -1,8 +1,6 @@
-# Algorithms (J-1)
+# Algorithms V1
 
-This repository contains a large set of algorithms which I have written in Java. I've created this repository to learn about algorithms and improve solving different common computer science problems.
-
-All of the following programs can be found in the src folder of Algorithms.
+This repository contains a large set of algorithms which I have written in Java and Python. I've created this repository to learn about algorithms and improve solving different common computer science problems.
 
 
 ### Sorting:
