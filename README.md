@@ -1,10 +1,8 @@
 # Algorithms
 
-This repository contains a large set of algorithms which I have written in Java. I've created this repository to learn about algorithms and improve solving different common computer science problems.
-
+This repository contains a collection of classic algorithms that I have written in Java.
 
 ### Sorting:
-
 * BubbleSort.java
 * MergeSort.java
 * QuickSort.java
@@ -13,17 +11,14 @@ This repository contains a large set of algorithms which I have written in Java.
 
 
 ### Searching:
-
 * BinarySearch.java (SOON TO ADD)
 
 
 ### Recursion:
-
 * Factorial.java
 * fib.java (Fibonacci numbers)
 * sum.java (Recursive sum)
 
 
 ### Other:
-
 * QuickFindUF.java (Quick Union Find)
